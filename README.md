@@ -9,7 +9,7 @@ FAQ
  - A) Yes as long as you never distribute anything using the data.
  -
  - Q) Can the data be used for paid services?
- - A) Yes, if you open source all parts that uses the data, derivated.
+ - A) Yes, if you open source all parts that uses the data, derivatives.
  - 
  - Q) What if I want to use the data and distribute it to a VPS/Datacenter?
  - A) You have to open source you source code.

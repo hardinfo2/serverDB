@@ -5,14 +5,14 @@ This is the database backup for hardinfo2.
 
 FAQ
 ----
-Q) Can I use the database for my private fun
-A) Yes as long as you never distribute anything using the data.
-
-Q) Can the data be used for paid services?
-A) Yes, if you open source all parts that uses the data
-
-Q) What if I want to use the data and distribute it to a VPS/Datacenter?
-A) You have to open source you source code
+ - Q) Can I use the database for my private fun?
+ - A) Yes as long as you never distribute anything using the data.
+ -
+ - Q) Can the data be used for paid services?
+ - A) Yes, if you open source all parts that uses the data, derivated.
+ - 
+ - Q) What if I want to use the data and distribute it to a VPS/Datacenter?
+ - A) You have to open source you source code.
 
 
 License
